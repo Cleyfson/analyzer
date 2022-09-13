@@ -7,5 +7,5 @@
    entrada.txt with a few test runs)
 2. the "make" command will generate the \*.o file, and also executable in the bin folder.
 3. For the "make run" command to work, the input folder must be in the root next to the makefile,
-4. the command “make run” will generate the file saida.txt in the root folder of the
+4. the command “make run” will generate the folder output in the root folder of the
    makefile with results
