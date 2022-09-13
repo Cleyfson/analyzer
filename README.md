@@ -31,9 +31,12 @@ To modularize the implementation, 3 classes were used, the first of them
 being the TipoPalavra, containing as attributes key and quantity, being the
 key class for creating the list of words present in the text read, also and
 in this class we have functions that handle words, such as the
-removal of symbols and transformation to the lowercase form of words. We have the TipoCelula class, which was used more as a helper class to
+removal of symbols and transformation to the lowercase form of words.
+
+We have the TipoCelula class, which was used more as a helper class to
 assembly of the doubly linked list, the cell stores a TipoCelula and
 pointers to the next cell and the previous cell.
+
 Finally, we have the ListaEncadeada class that has the cell type first and
 last, pointing to the first and last TipoCelula of our word list. This class have the necessary functions for inserting the
 TipoPalavra in the list and also for realizations of some specified requirements
