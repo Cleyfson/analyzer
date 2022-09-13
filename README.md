@@ -62,70 +62,70 @@ word, given different lexicographical order.
 
 # Input example
 
-#TEXTO
+#TEXTO<br />
 Sofisticado, o Tenis Adidas Top Ten Low Sleek W e o tipo de calcado que faz uma baita diferenca no look da mulher moderna. Confeccionada em Couro predominante, sua parte superior promove um calce suave por longas horas. Alem disso, tem solado em Borracha para excelente tracao em superficies escorregadias. Mude os rumos de sua casualidade, va de Originals e faca efeito em diversas ocasioes.
-#ORDEM
-Q A Z W S X E D C R F V T G B Y H N M U J I K O L P
+#ORDEM<br />
+Q A Z W S X E D C R F V T G B Y H N M U J I K O L P<br />
 
 # Example Output (referring to example input)
 
-que 1
-adidas 1
-alem 1
-w 1
-sua 2
-suave 1
-superficies 1
-superior 1
-sofisticado 1
-solado 1
-sleek 1
-e 2
-escorregadias 1
-excelente 1
-efeito 1
-em 4
-da 1
-de 3
-disso 1
-diferenca 1
-diversas 1
-casualidade 1
-calcado 1
-calce 1
-confeccionada 1
-couro 1
-rumos 1
-faz 1
-faca 1
-va 1
-ten 1
-tenis 1
-tem 1
-tracao 1
-tipo 1
-top 1
-baita 1
-borracha 1
-horas 1
-no 1
-mude 1
-mulher 1
-moderna 1
-um 1
-uma 1
-o 2
-os 1
-ocasioes 1
-originals 1
-low 1
-longas 1
-look 1
-para 1
-parte 1
-predominante 1
-promove 1
-por 1
-#FIM
+que 1<br />
+adidas 1<br />
+alem 1<br />
+w 1<br />
+sua 2<br />
+suave 1<br />
+superficies 1<br />
+superior 1<br />
+sofisticado 1<br />
+solado 1<br />
+sleek 1<br />
+e 2<br />
+escorregadias 1<br />
+excelente 1<br />
+efeito 1<br />
+em 4<br />
+da 1<br />
+de 3<br />
+disso 1<br />
+diferenca 1<br />
+diversas 1<br />
+casualidade 1<br />
+calcado 1<br />
+calce 1<br />
+confeccionada 1<br />
+couro 1<br />
+rumos 1<br />
+faz 1<br />
+faca 1<br />
+va 1<br />
+ten 1<br />
+tenis 1<br />
+tem 1<br />
+tracao 1<br />
+tipo 1<br />
+top 1<br />
+baita 1<br />
+borracha 1<br />
+horas 1<br />
+no 1<br />
+mude 1<br />
+mulher 1<br />
+moderna 1<br />
+um 1<br />
+uma 1<br />
+o 2<br />
+os 1<br />
+ocasioes 1<br />
+originals 1<br />
+low 1<br />
+longas 1<br />
+look 1<br />
+para 1<br />
+parte 1<br />
+predominante 1<br />
+promove 1<br />
+por 1<br />
+#FIM<br />
 
 
